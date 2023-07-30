@@ -1,0 +1,52 @@
+https://blog.csdn.net/kiral07/article/details/88018623
+
+
+https://www.boll.me/archives/680
+wget http://download.boll.me/securecrt_linux_crack.pl
+sudo perl securecrt_linux_crack.pl  
+
+
+
+Name： ygeR      
+Company:TEAM ZWT
+SerialNumber：03-77-119256
+License Key: ABH2MJ 9YVAC5 Z17QF7 4ZAS7Z ABGYJH CZ5EU3 V4MN88 T18NCT
+Issue Date: 06-03-2017
+
+
+
+
+Name:        bleedfly
+Company:    bleedfly.com
+Serial Number:    03-29-002542
+License Key:    ADGB7V 9SHE34 Y2BST3 K78ZKF ADUPW4 K819ZW 4HVJCE P1NYRC
+Issue Date:    09-17-2013
+
+
+Name: Sherrill Ray
+Company:
+Serial Number:03-40-084141
+License Key: ABWGUE ZPPZ6X XHTN2S 1N7PER AB39ZJ PX3312 WS6BZF GHN2ET
+Issue Date: 10-26-2002
+
+
+name:kevin
+company:huang
+Serial:06-67-001167
+Date:09-13-2013
+license:ACUYJV Q1V2QU 1YWRCN NBYCYK AA1ER9 2EZTHP QAVBHN W8S33K
+
+sudo perl securecrt_mac_crack.pl /Applications/SecureCRT.app/Contents/MacOS/SecureCRT
+
+$ which SecureCRT
+/usr/bin/SecureCRT
+ 
+$ sudo perl securecrt_linux_crack.pl /usr/bin/SecureCRT 
+crack successful
+
+sudo perl securecrt_linux_crack.pl /Applications/SecureCRT.App/Contents/MacOS/SecureCRT
+	Name:		xiaobo_l
+	Company:	www.boll.me
+	Serial Number:	03-94-294583
+	License Key:	ABJ11G 85V1F9 NENFBK RBWB5W ABH23Q 8XBZAC 324TJJ KXRE5D
+	Issue Date:	04-20-2017
